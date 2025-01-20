@@ -16,7 +16,7 @@ let images = [
     src: "assets/ForestTwo2000w.png",
     alt: "An image of a forst",
     srcset:
-      "assetsForestTwo2000w.png 2000w, assets/ForestTwo2000w.png 1000w, assets/ForestTwo800w.png 800w, assets/ForestTwo400w.png 400w",
+      "assets/ForestTwo2000w.png 2000w, assets/ForestTwo2000w.png 1000w, assets/ForestTwo800w.png 800w, assets/ForestTwo400w.png 400w",
   },
   {
     src: "assets/ForestThree2000w.png",
